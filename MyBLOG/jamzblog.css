@@ -1,0 +1,51 @@
+BODY {
+	MARGIN-TOP: 10px; 
+	FONT-SIZE: 11px; 
+	BACKGROUND-ATTACHMENT: scroll; 
+	MARGIN-LEFT: 10px; BACKGROUND-REPEAT; 
+	no-repeat; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	/* BACKGROUND-COLOR: #696969; */ /*F5DEB 696969 */
+        /* background-image:url('rock.jpg'); */
+        /* BACKGROUND-COLOR: #FFFFFF; */
+           BACKGROUND-COLOR: #ffebcd;
+     }
+
+/*
+TD   {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+     }
+P    {
+	BACKGROUND: black
+	FONT-SIZE: 12px; COLOR: grey; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+     }
+ H1 {
+	FONT-SIZE: 12px; COLOR: #979797; FONT-FAMILY: Helvetica, Verdana, Arial
+   }
+
+
+H2 {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+   }
+H3 {
+	FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+   }
+*/
+
+A:link {color:black; text-decoration:none;}
+A:visited {color:black;}
+A:active {color:black;}
+A:hover { font-weight:bold; color: YEllow; background:none;}
+
+#block1 {
+   position:absolute;
+   top:10%;
+   width: 15%;
+   height:50%;
+   left: 3%;
+   color: white;
+   font-weight: bold;  
+   style-overflow:auto;
+    /* background:green; */ 
+         }
+
+
